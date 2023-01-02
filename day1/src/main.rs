@@ -29,6 +29,5 @@ fn main() {
             break;
         }
     }
-
-    println!("{}", counter);
+ println!("{}", counter);
 }
